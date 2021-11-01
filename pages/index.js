@@ -16,6 +16,7 @@ export default function Home() {
       <Head>
         <title>Imam Syahid Hudzaifah</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="d2MSeeJ5LwFmDRDFP2of0-TtNZaujlkcqz-Yi1ivrAs" />
       </Head>
 
       <main ref={home} className="w-full text-center overflow-x-hidden">
