@@ -1,7 +1,7 @@
 import {MdTagFaces} from 'react-icons/md'
 import {FaRegHandRock} from 'react-icons/fa'
 import {AiOutlineBook} from 'react-icons/ai'
-import Line from '../styles/line'
+import Line from '../styles/line.svg'
 
 export default function About() {
   return (

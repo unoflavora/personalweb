@@ -1,4 +1,4 @@
-import Line from "../styles/line";
+import Line from '../styles/line.svg'
 import {FaReact} from 'react-icons/fa'
 import {SiNextdotjs, SiTailwindcss, SiMongodb} from 'react-icons/si'
 

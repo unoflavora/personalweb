@@ -4,3 +4,6 @@
 
 @tailwind utilities;
 
+.portfolio-item {
+  @apply text-center text-white transition-transform transform hover:scale-105 hover:font-bold bg-blue-200 rounded-3xl p-5 w-full h-max;
+}

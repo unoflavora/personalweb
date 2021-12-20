@@ -1,0 +1,92 @@
+{
+  "Projects": {
+    "Diktus": {
+      "title": "Diktus",
+      "description": "Diktus is an app that prepare student for an exam. It is consisted of many features that includes : problem sets of 5 exam subject with answers, gamification with XP, analyzing student performance with graph, tracking student performance",
+      "imageDesktop": ["/diktus/diktus.png", "/diktus/latihan.png"],
+      "imageMobile": ["/diktus/mobile1.png", "/diktus/mobile2.png", "/diktus/mobile3.png"],
+      "link": "https://www.diktus.id",
+      "github": "https://github.com/unoflavora/diktus",
+      "features": [
+        {
+          "title": "Framework",
+          "item": "Next JS"
+        },
+        {
+          "title": "Stack",
+          "item": "Full Stack"
+        },
+        {
+          "title": "Responsive",
+          "item": "Yes"
+        }
+      ]
+    },
+    "Feedback": {
+      "title": "Product Feedback App",
+      "description": "This is an app that allow users to give feedback. This app allow user to create, read, edit, and update feedback requests. User also can give comments, filter, vote, and sort feedbacks",
+      "imageDesktop": ["/feedback/feedback.png", "/feedback/feedback2.png", "/feedback/feedback3.png", "/feedback/feedback4.png", "/feedback/feedback5.png"],
+      "imageMobile": ["/feedback/mobile.png", "/feedback/mobile2.png", "/feedback/mobile3.png", "/feedback/mobile4.png", "/feedback/mobile5.png", "/feedback/mobile6.png"],
+      "link": "https://fullstack-feedback-app1.herokuapp.com/",
+      "github": "https://github.com/unoflavora/feedback-app",
+      "features": [
+        {
+          "title": "Framework",
+          "item": "React"
+        },
+        {
+          "title": "Stack",
+          "item": "Full Stack (MERN)"
+        },
+        {
+          "title": "Responsive",
+          "item": "Yes"
+        }
+      ]
+    },
+    "Memory": {
+      "title": "Memory Game",
+      "description": "In this game, user must memorize a pair of number. This game can be played by single or multi player. Single player game will count the movement whereas multiplayer mode will rank the player by the pair number found",
+      "imageDesktop": ["/memory/memory.png", "/memory/memory2.png", "/memory/memory3.png", "/memory/memory4.png", "/memory/memory5.png", "/memory/memory6.png"],
+      "imageMobile": ["/memory/mobile1.png", "/memory/mobile2.png", "/memory/mobile3.png", "/memory/mobile4.png", "/memory/mobile5.png", "/memory/mobile6.png"],
+      "link": "https://imam-memorygame.herokuapp.com/",
+      "github": "https://github.com/unoflavora/memory-game",
+      "features": [
+        {
+          "title": "Framework",
+          "item": "React"
+        },
+        {
+          "title": "Stack",
+          "item": "Front End"
+        },
+        {
+          "title": "Responsive",
+          "item": "Yes"
+        }
+      ]
+    },
+    "Writer": {
+      "title": "Writer App",
+      "description": "This is an app that writes problem set for the main Diktus App. Some of the features is user auth, rich text editor with math rendering, and CRUD operations",
+      "imageDesktop": ["/writer/writer.png", "/writer/writer2.png", "/writer/writer3.png", "/writer/writer4.png"],
+      "imageMobile": ["/writer/mobile.png","/writer/mobile2.png", "/writer/mobile3.png"],
+      "link": "https://diktus-writer.herokuapp.com/",
+      "github": "https://github.com/unoflavora/writer",
+      "features": [
+        {
+          "title": "Framework",
+          "item": "React"
+        },
+        {
+          "title": "Stack",
+          "item": "Fullstack"
+        },
+        {
+          "title": "Responsive",
+          "item": "Yes"
+        }
+      ]
+    }
+  }
+}
