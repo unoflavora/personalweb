@@ -1,5 +1,4 @@
-import { useEffect } from "react";
-import { useRef } from "react/cjs/react.development";
+import { useEffect,useRef } from "react";
 import gsap from "gsap";
 function StackBox({children, title, desc}) {
   const divRef = useRef()

@@ -16,7 +16,7 @@ gsap.registerPlugin(ScrollTrigger, TextPlugin);
 useEffect(() => { 
   gsap.to(textRef.current.querySelector('#title'), {scrollTrigger: {
     trigger: textRef.current.querySelector('#title'),
-    toggleActions: "restart none restart reset"
+    toggleActions: "restart none none none"
   },duration: 2, text: "React."})
 }, [])
 

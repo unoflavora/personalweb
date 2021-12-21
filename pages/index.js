@@ -8,7 +8,7 @@ import { useRef } from 'react'
 export default function Home() {
   const portofolio = useRef()
   const home = useRef()
-  const about = useRef()
+  const expertise = useRef()
   const contact = useRef()
 
   return (
@@ -23,13 +23,13 @@ export default function Home() {
         <Header 
           Works={portofolio}
           Home={home}
-          About={about}
+          Expertise={expertise}
           Contact={contact}/>
 
         <div ref={portofolio}>
           <Portofolio/>
         </div>
-        <div ref={about}>
+        <div ref={expertise}>
           <Stack/>
           <About/>
         </div>

@@ -18,8 +18,6 @@ export default function Portofolio() {
 
   useAnimate(lineRef, onView)
   const tl = useProjectAnimation(row1, row2)
-
-
   
   return (
     <VisibilitySensor partialVisibility onChange={(isVisible) => setOnView(isVisible)}>
