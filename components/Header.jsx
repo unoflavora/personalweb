@@ -33,10 +33,14 @@ export default function Header(props) {
               </button>
             )}
           </nav>
-          <div className='h-72 md:hidden bg-yellow-200 rounded-b-full lg:py-64'>  
-            <Image className='rounded-full' src='/foto.png' alt='foto imam' width={300} height={300}/>
+          
+          <div className='flex justify-center w-full md:hidden'>
+          <div className='h-56 w-56  pt-5  bg-yellow-200 rounded-b-full lg:py-64'>  
+            <Image className='rounded-full' src='/foto.png' alt='foto imam' width={180} height={200}/>
 
            </div>
+          </div>
+
           <div className='flex flex-col gap-2 md:gap-14 text-left px-0'>
             <div className='md:gap-5'>
             <h1 className='text-blue-400 text-xl mt-10 md:mt-0 font-semibold'>Imam Syahid Hudzaifah</h1>
