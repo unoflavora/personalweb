@@ -58,7 +58,7 @@ export default function Header(props) {
               To be a Professional Web Developer is my dream. 
               </span> I hope to make an impact in an important future of digital world. 
               Specialized in MERN Stack, I have learned a lot, and love to learn a lot more
-              <a target={'_blank'} href="/CV_Imam_Syahid_Hudzaifah.pdf" className='block w-fit hover:bg-blue-400 bg-blue-500 text-white  mt-5 px-5 py-2 text-lg font-semibold rounded-xl  '>View My Resume</a></p>
+              <a target={'_blank'} href="/Resume_Imam_Syahid_Hudzaifah.pdf" className='block w-fit hover:bg-blue-400 bg-blue-500 text-white  mt-5 px-5 py-2 text-lg font-semibold rounded-xl  '>View My Resume</a></p>
             
           </div>
         </div>
